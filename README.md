@@ -19,7 +19,8 @@ https://huggingface.co/spaces/vikramlingam/DCF-app
 \`\`\`bash
 # Clone the repository
 git clone https://github.com/vikramlingam/DCF_App.git
-cd stock-dcf-valuation-tool
+
+cd DCF_App
 
 # Install dependencies
 pip install -r requirements.txt
